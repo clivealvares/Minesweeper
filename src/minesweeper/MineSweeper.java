@@ -233,7 +233,7 @@ public class MineSweeper implements ActionListener{
         }
         if(won == true){
             
-          JOptionPane.showMessageDialog( frame, "you win");
+          JOptionPane.showMessageDialog( frame, "You Win!");
         }
     }
     
